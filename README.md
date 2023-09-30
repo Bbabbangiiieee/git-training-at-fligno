@@ -1,6 +1,1 @@
-# git-training-at-fligno
-
-Christina Mae Gerzon
-
-
-For Stash purposes -1
+Christina Mae Gerzon - Bachelor of Science in Information Technology
